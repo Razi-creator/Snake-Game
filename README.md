@@ -29,6 +29,7 @@ Use the **Arrow Keys** to navigate the snake:
 
 **Bash**
 ./snakegame
+
 Enter the total number of rounds you wish to play.
 
 Enter the time limit (in seconds) for each round.
